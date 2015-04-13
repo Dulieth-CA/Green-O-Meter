@@ -2,22 +2,23 @@
 
 Index
 
-Introduction .............................................................3
-Green-O-Meter.............................................................3
-Logo......................................................................3
-Impacts / Applications / Significance.....................................4
-Goal......................................................................5
-Theoretical Framework.....................................................5
-•	Tropospheric Ozone................................................6
-•	Impact on Plant...................................................7
-•	Necrosis..........................................................7
-•	Chlorosis.........................................................11
-•	Impact on Human Beings............................................13
-Procedure ................................................................14
-Observations and Results .................................................14
-Recommendations ..........................................................16
-Conclusions ..............................................................17
-Bibliography .............................................................17
+Introduction 											  3
+Green-O-Meter										  3
+Logo 												  3
+Impacts / Applications / Significance 							  4
+Goal 												  5
+Theoretical Framework 									  5
+•	Tropospheric Ozone 									  6
+•	Impact on Plant 								  7
+•	Necrosis 							  7
+•	Chlorosis 							11
+•	Impact on Human Beings 							13
+Procedure 											14
+Observations and Results 									14
+Recommendations 										16
+Conclusions 											17
+Bibliography 											17
+
 
 Introduction
 	The plants show a special sensitivity to most air pollutants, and suffer significant damage at much lower than that necessary to cause harmful effects on human and animal health and concentrations.
